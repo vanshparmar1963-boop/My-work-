@@ -1,0 +1,6 @@
+{
+  "name": "Doodle Shooter Architect",
+  "description": "An interactive 2D mobile multiplayer physics sandbox, local network simulation, and comprehensive developer architecture guide for Unity & Godot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
